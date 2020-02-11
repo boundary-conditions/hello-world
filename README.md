@@ -4,4 +4,4 @@ I'm a 36 year old guy from Canada, living on the East Coast, but about to move b
 
 The first thing I have learned is how to use git to track changes to my work. In this case, I have cloned this repository to my macbook and am editing this file.
 
-This is my first change on a new branch.
+This is my second change. I deleted my first change.
